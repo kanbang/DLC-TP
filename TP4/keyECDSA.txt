@@ -1,0 +1,3 @@
+d   = 0xca7103506a2c53dba4
+Q_x = 0x967dabcf5c961e1ee1b02342aabf8631137fbc467d316a17
+Q_y = 0xb957efbfe2b1c1274bd7ed6157b8d0beeca9237c2f30b8a0
